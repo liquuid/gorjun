@@ -1,0 +1,14 @@
+consumes:
+- application/json
+info:
+  description: Gorjun is a golang replacement for Kurjun project. Kurjun is Subutai's
+    CDN software.
+  title: API specification for Gorjun
+  version: 0.1.0
+paths: {}
+produces:
+- application/json
+schemes:
+- http
+- https
+swagger: "2.0"
